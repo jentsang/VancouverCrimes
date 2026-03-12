@@ -1,6 +1,6 @@
 # VancouverCrimes
 
-> Interactive geospatial dashboard for visualizing crime patterns across Vancouver neighbourhoods.
+> Interactive geospatial dashboard for visualizing crime patterns across Vancouver neighbourhoods in the year 2025.
 
 [Live App](https://jentsang-vancouvercrimes.share.connect.posit.cloud/)
 
